@@ -1,0 +1,2 @@
+Positioner latitude longitude
+Agersø_(Vrag) 55.10.911 11.13.328

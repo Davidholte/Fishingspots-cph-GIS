@@ -1,0 +1,13 @@
+Positioner latitude longitude
+Urania_(Vrag) 56.17.641 12.17.751
+Cementvraget_(Vrag) 56.23.658 12.30.450
+Holmen_VI_(Vrag) 56.21.113 12.26.180
+Farnes_M/S_(Vrag) 56.27.718 12.30.537
+Kulfragteren_(Vrag) 56.29.321 12.19.983
+Pernod_(Vrag) 56.18.186 12.28.055
+Stenfragteren_(vrag) 56.16.841 12.17.238
+Eisfish_(vrag) 56.16.045 12.11.533
+Sigrid_S/S_(vrag) 56.13.835 12.14.476
+Mir_(vrag) 56.13.332 12.15.925
+Fusion_H10_(vrag) 56.10.676 12.21.163
+Fladfisk_(Skrænt) 55.57.174 11.49.844

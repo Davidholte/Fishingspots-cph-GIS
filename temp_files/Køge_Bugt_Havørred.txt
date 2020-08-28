@@ -1,0 +1,17 @@
+Positioner latitude longitude
+Amager1 55.29.570 12.36.010
+Amager2 55.29.560 12.36.820
+Bøgeskoven 55.22.025 12.26.772
+Hul2 55.31.266 12.28.623
+Hul3 55.30.716 12.29.433
+Hul4 55.31.016 12.30.693
+Kompasrosen 55.26.004 12.32.374
+Mandehoved 55.21.275 12.27.291
+Prikken 55.28.109 12.16.710
+Sønakken 55.24.550 12.23.460
+Sønakken 55.23.910 12.24.640
+Sønakken_sommerplads 55.22.886 12.30.364
+Stevns_dyb_rende_nord1 55.22.080 12.29.630
+Stevns_dyb_rende_nord2 55.22.027 12.29.404
+Stevns_kant_af_rende 55.20.880 12.31.400
+Stevns_østlige_kant 55.20.500 12.29.000

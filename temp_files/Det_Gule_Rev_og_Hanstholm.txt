@@ -1,0 +1,12 @@
+Positioner latitude longitude
+Winnie_Rita 57.24.572 8.19.523
+Rana 57.21.572 8.11.524
+Sikka_L910 57.26.220 8.23.123
+Jonni_Boy 57.26.220 8.23.734
+Kristina_Laban 57.19.572 7.59.524
+Constantin 57.19.350 8.28.911
+Sten_Pram_1 57.18.869 8.20.769
+Sten_Pram_2 57.14.750 8.27.892
+Herman_Krone 57.12.730 8.34.554
+Krigsskibet 57.13.570 7.45.540
+Fiskekutter 57.15.782 8.14.245

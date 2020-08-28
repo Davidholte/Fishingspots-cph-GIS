@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Fish_type",
+        "type": "STRING",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "Location_name",
+        "type": "STRING",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "latitude",
+        "type": "FLOAT",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "longitude",
+        "type": "FLOAT",
+        "mode": "REQUIRED"
+    }
+]

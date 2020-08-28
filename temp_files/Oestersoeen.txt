@@ -1,0 +1,5 @@
+Positioner latitude longitude
+Trævrag_(Vrag) 54.53.323 12.35.490
+Bakkely_(Vrag) 54.55.903 12.40.248
+Explore_(Vrag) 54.56.864 12.35.603
+Hjuldamper_(Vrag) 54.56.904 12.38.304

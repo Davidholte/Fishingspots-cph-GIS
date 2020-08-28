@@ -1,0 +1,5 @@
+Positioner latitude longitude
+Bananen_Nord 54.54.924 12.34.802
+Bananen_Midt 54.53.966 12.32.730
+Bananen_Syd 54.53.602 12.30.518
+Leif’s_Spot 54.55.920 12.41.603

@@ -1,0 +1,5 @@
+Positioner latitude longitude
+Bjelkes_Flak 54.55.224 12.32.834
+Bjelkes_Flak 54.54.936 12.30.751
+Klintekysten 54.56.589 12.33.091
+Klintekysten 54.57.068 12.33.586
