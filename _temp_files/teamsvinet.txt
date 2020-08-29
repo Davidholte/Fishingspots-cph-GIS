@@ -1,0 +1,63 @@
+unknown Urania 56.17.641 12.17.751
+unknown Stenfragteren 56.16.841 12.17.238
+unknown Eisfish 56.16.045 12.11.533
+unknown Sigrid S/S 56.13.835 12.14.476
+unknown Mir 56.13.332 12.15.925
+unknown Fusion H10 56.10.676 12.21.163
+unknown Fladfisk 55.57.174 11.49.844
+unknown Ørkenen Skrænt 56.03.056 12.38.886
+unknown Algetønden 56.05.877 12.34.517
+unknown Trapperne 56.04.901 12.37.151
+unknown Cowboykant 56.05.625 12.35.426 
+unknown Pålsjø 56.03.866 12.38.346
+unknown Muslingerne 56.03.289 12.39.129   
+unknown Makrelm4 56.03.328 12.39.017            
+unknown DM knolden 56.03.056 12.38.886
+unknown Makrel Kronb. 56.02.234 12.37.513
+unknown Grænsen 56.02.597 12.39.262
+unknown Forbudte 56.02.206 12.39.496
+unknown Vandias 56.01.307 12.39.971
+unknown Kobberværket 56.00.020 12.41.540
+unknown Disken 56.00.299 12.38.499
+unknown Hukommelsen 55.55.778 12.38.761
+unknown Makrel Ven 55.55.591 12.40.806
+unknown Robert 55.55.537 12.43.232
+unknown Rungsted huller 55.54.315 12.36.166
+unknown Fedterøven 55.54.955 12.44.157
+unknown Ebbes 55.52.890 12.44.630
+unknown Susannes flak 55.51.770 12.45.000
+unknown Trævrag 54.53.323 12.35.490
+unknown Bakkely 54.55.903 12.40.248
+unknown Explore 54.56.864 12.35.603
+unknown Hjuldamper 54.56.904 12.38.304
+Sej Breigrunn 70.37.56 21.51.15
+Rødspætte Murmanskviken 70.38.02 21.57.42
+Helleflynder Kveitesundet 70.40.42 21.59.23
+Helleflynder Kamöybåen 70.39.07 21.50.62
+"Torsk, helleflynder" Övre djupskolt 70.40.14 21.51.16
+"Havkat, torsk,helleflynder" Yttre djupskolt 70.40.03 21.44.96
+"Havkat, torsk, helleflynder" Grunnback 70.40.75 21.43.34
+"Torsk, sej, lange, brosme" Reis 70.41.58 21.44.09
+"Helleflynder, torsk" Andottsskallen 70.42.54 21.48.92
+"Torsk og helleflynder" Södre Runningen 70.37.10 21.38.25
+"Torsk og helleflynder" Runningen 70.38.24 21.40.29
+"Torsk og helleflynder" Norra Runningen 70.38.49 21.39.32
+Havkat Kveitegrunn 70.33.70 21.43.35
+"Havkat, helleflynder, torsk" Ryggen 70.42.52 21.56.14
+"Helleflynder, torsk, sej" Sildbåen 70.45.78 22.04.42
+"Kungsfisk/rødfisk" 10-Öringen 70.36.05 21.32.50
+"Havkat, helleflynder" Silstoe 70.27.65 22.08.41
+Torsk Storskalltaren 70.39.72 20.30.23
+"Torsk, helleflynder" Storskalltaren 70.36.63 20.34.44
+"Helleflynder, torsk" Storskalltaren 70.34.70 20.32.65
+"Helleflynder 2007" Storskaltaran 70.38.448 20.32.365
+"Helleflynder 2007" Storskaltaran 70.35.993 20.27.868
+"Torsk, helleflynder" Råsa 70.54.43 22.12.01
+"Torsk, helleflynder" Råsa 70.54.54 22.14.48
+"Torsk, helleflynder" Råsa 70.54.93 22.14.85
+"Torsk, helleflynder" Råsaknudorna 70.56.31 22.30.16
+"Torsk 20kg 2007" Allangstaran 70.35.221 20.32.424
+"Helleflynder 2007" Allangstaran 70.35.214 20.33.455
+"Helleflynder 2007" Allangstaran 70.35.502 20.32.982
+"Helleflynder 2007" Allangstaran 70.35.704 20.32.490
+"Helleflynder 2007" Allangstaran 70.35.430 20.34.021
